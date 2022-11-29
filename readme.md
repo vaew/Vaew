@@ -101,7 +101,7 @@
 <font face="Cambria Math" color=black size=4>Wuhan, Hubei, P. R. China (430074)</font>
 <font face="Cambria Math" color=black size=4> Wechat: vaewyyy</font>
 <font face="Cambria Math" color=black size=4>Tel: +86-18186673545</font>
-<font face="Cambria Math" color=black size=4>Email: j_tang[@hust.edu.cn](mailto:j_tang@hust.edu.cn)</font>
+<font face="Cambria Math" color=black size=4>Email: j_tang@hust.edu.cn</font>
 </pre></details> 
 
 ---
