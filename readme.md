@@ -10,11 +10,16 @@
 
 ### <font face="Cambria Math" color=black size=6>Patents</font>
 * <font face="Cambria Math" color=black size=4>Issued Patents</font>
-  **唐晶**；吴海兵；郭子奇；韩子琴；张文婷；尹周平；陶波，一种基于RFID空间定位技术的抓取式柔性分栋方法；ZL201910875139.3 （发明专利）
-  基于RFID识别定位技术的精准分拣系统V1.0；2019SR1151524（软件著作权）
-  瞿浩东；**唐晶**；张名琦；叶昊聪；凌玲，一种快速自动叠衣装置；ZL202021519420.8 （实用新型专利)
+
+1. **唐晶**；吴海兵；郭子奇；韩子琴；张文婷；尹周平；陶波，一种基于RFID空间定位技术的抓取式柔性分栋方法；ZL201910875139.3 （发明专利）
+
+2. 基于RFID识别定位技术的精准分拣系统V1.0；2019SR1151524（软件著作权）
+3. 瞿浩东；**唐晶**；张名琦；叶昊聪；凌玲，一种快速自动叠衣装置；ZL202021519420.8 （实用新型专利)
+
 * <font face="Cambria Math" color=black size=4>Patent Application</font>
-  陶波；**唐晶**；龚泽宇，一种基于轻量级卷积神经网络的抓取位姿检测方法及设备；202111656936.6（发明专利，在申）
+
+陶波；**唐晶**；龚泽宇，一种基于轻量级卷积神经网络的抓取位姿检测方法及设备；202111656936.6（发明专利，在申）
+
 ### <font face="Cambria Math" color=black size=6>Representative AI Competitions</font>
 
 <details>
