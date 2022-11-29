@@ -9,16 +9,15 @@
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation, in IEEE Sensors Journal, vol. 21, no. 18, pp. 20606-20615, 15 Sept.15, 2021.</font>
 
 ### <font face="Cambria Math" color=black size=6>Patents</font>
-* <font face="Cambria Math" color=black size=4>Issued Patents</font>
 
-1. **唐晶**；吴海兵；郭子奇；韩子琴；张文婷；尹周平；陶波，一种基于RFID空间定位技术的抓取式柔性分栋方法；ZL201910875139.3 （发明专利）
-
+<details>
+<summary>Expand to View</summary>
+<pre>
+1. <b>唐晶</b>；吴海兵；郭子奇；韩子琴；张文婷；尹周平；陶波，一种基于RFID空间定位技术的抓取式柔性分栋方法；ZL201910875139.3 （发明专利）
 2. 基于RFID识别定位技术的精准分拣系统V1.0；2019SR1151524（软件著作权）
-3. 瞿浩东；**唐晶**；张名琦；叶昊聪；凌玲，一种快速自动叠衣装置；ZL202021519420.8 （实用新型专利)
-
-* <font face="Cambria Math" color=black size=4>Patent Application</font>
-
-陶波；**唐晶**；龚泽宇，一种基于轻量级卷积神经网络的抓取位姿检测方法及设备；202111656936.6（发明专利，在申）
+3. 瞿浩东；<b>唐晶</b>；张名琦；叶昊聪；凌玲，一种快速自动叠衣装置；ZL202021519420.8 （实用新型专利)
+4. 陶波；<b>唐晶</b>；龚泽宇，一种基于轻量级卷积神经网络的抓取位姿检测方法及设备；202111656936.6（发明专利，在申）
+</pre></details>
 
 ### <font face="Cambria Math" color=black size=6>Representative AI Competitions</font>
 
@@ -75,14 +74,17 @@
 2022 ECCV  WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅱ Rank 19/594
 2021 CVPR2021 安全AI挑战者计划第六期：防御模型的白盒对抗攻击 Rank 37/1681
 </pre></details> 
-
 ### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
 
+<details>
+<summary>Expand to View</summary>
+<pre>
 * <font face="Cambria Math" color=black size=4>Chamd5 AI Team Leader</font>
 * <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
 * <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Star Partner</font>
 * <font face="Cambria Math" color=black size=4>United Nations #TEACH GIRLS CODING  Volunteer Mentor</font>
+</pre></details>
 
 ---
 
