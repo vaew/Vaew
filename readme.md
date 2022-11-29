@@ -34,7 +34,7 @@
 2019 CSDN×易观算法大赛——PV,UV流量预测 Rank6
 2022  “域见杯”医检人工智能开发者大赛 Rank 7/903
 2022年“移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8
-2020 链想家计算科技大赛 ：同名消歧 赛道一 Rank 9
+2020 链想家计算科技大赛 ：同名消歧 赛道一 Rank9
 2022 粤港澳大湾区（黄埔）国际算法算例大赛-工业品表面缺陷检测技术（深科技）Rank10
 2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10
 </pre></details>
@@ -65,9 +65,9 @@
 2021 CVPR2021 PIC Challenge: 3D Face Reconstruction From Multiple 2D Images Rank 13/247
 2021 第十一届中兴捧月大赛dijkstra派 流量预测 区域优胜奖 初赛rank12 复赛：区域优胜奖
 2021 厦门火炬高新区高校专业新星挑战大赛 三等奖
-2022年“移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8
+2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8
 2022 字节跳动安全AI挑战赛赛道一基于文本和多模态数据的风险识别（初赛：低分辨率抖音号识别）Rank21
-2022  蚂蚁集团绿色计算大赛 流量预测 Rank20
+2022 蚂蚁集团绿色计算大赛 流量预测 Rank20
 2022 第二届“智联重庆·渝见未来”华为开发者暨智能网联大赛（创新创意赛道）Top20
 2022 蒙牛校园创新大赛初赛-人工智能在数字化工厂智能制造中的应用 Top12
 2022 “移动云杯”算力网络应用创新赛道行业赛道全国总决赛 Rank6
@@ -99,7 +99,7 @@
 <font face="Cambria Math" color=black size=4>State Key Lab of Digital Manufacturing Equipment & Technology</font>
 <font face="Cambria Math" color=black size=4>Huazhong University of Science & Technology</font>
 <font face="Cambria Math" color=black size=4>Wuhan, Hubei, P. R. China (430074)</font>
-<font face="Cambria Math" color=black size=4> Wechat: vaewyyy</font>
+<font face="Cambria Math" color=black size=4>Wechat: vaewyyy</font>
 <font face="Cambria Math" color=black size=4>Tel: +86-18186673545</font>
 <font face="Cambria Math" color=black size=4>Email: j_tang@hust.edu.cn</font>
 </pre></details> 
