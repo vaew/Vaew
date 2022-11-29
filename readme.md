@@ -74,6 +74,7 @@
 2022 ECCV  WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅱ Rank 19/594
 2021 CVPR2021 安全AI挑战者计划第六期：防御模型的白盒对抗攻击 Rank 37/1681
 </pre></details> 
+
 ### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
 
 <details>
