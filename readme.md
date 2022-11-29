@@ -76,8 +76,6 @@
 </pre></details> 
 ### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
 
-
-
 <details>
 <summary>Expand to View</summary>
 <pre>
