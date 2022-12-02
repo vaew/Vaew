@@ -71,7 +71,6 @@
 2022 蒙牛校园创新大赛初赛-人工智能在数字化工厂智能制造中的应用 Top12
 2022 “移动云杯”算力网络应用创新赛道行业赛道全国总决赛 Rank6
 2022 ECCV WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅱ Rank19/594
-
 </pre></details> 
 
 ### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
