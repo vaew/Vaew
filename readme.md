@@ -4,9 +4,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
+<font face="Cambria Math" color=black size=4>**Jing Tang** is an Machine Learning Engineer and Researcher by profession. He is working in the field of Robotic Learning and its Application since 2017. Currently, he is studying as a Ph.D student in Mechatronics Engineering at Huazhong University of Science and Technology, Wuhan, China. Along with study he is also working as Research Assistant (RA) in State Key Laboratory of Digital Manufacturing Equipment and Technology (SKL-DMET) at Huazhong University of Science and Technology. </font>
+
 ### <font face="Cambria Math" color=black size=6>Publication</font>
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation, in IEEE Sensors Journal, vol. 21, no. 18, pp. 20606-20615, 15 Sept.15, 2021.</font>
+
+### <font face="Cambria Math" color=black size=6>Languages and Tools:</font>
+
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 ### <font face="Cambria Math" color=black size=6>Patents</font>
 
@@ -71,7 +77,6 @@
 2022 蒙牛校园创新大赛初赛-人工智能在数字化工厂智能制造中的应用 Top12
 2022 “移动云杯”算力网络应用创新赛道行业赛道全国总决赛 Rank6
 2022 ECCV WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅱ Rank19/594
-
 </pre></details> 
 
 ### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
