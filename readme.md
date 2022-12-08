@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
-<font face="Cambria Math" color=black size=4>**Jing Tang** is an Machine Learning Engineer and Researcher by profession. He is working in the field of Robotic Learning and its Application since 2017. Currently, he is studying as a Ph.D student in Mechatronics Engineering at Huazhong University of Science and Technology, Wuhan, China. Along with study he is also working as Research Assistant (RA) in State Key Laboratory of Digital Manufacturing Equipment and Technology (SKL-DMET) at Huazhong University of Science and Technology. </font>
+<font face="Cambria Math" color=black size=4>**Jing Tang** is an Machine Learning Engineer and Researcher by profession. He is working in the field of Robotic Learning and its Application since 2017. Currently, he is studying as a Ph.D student in Mechatronics Engineering at Huazhong University of Science and Technology, Wuhan, China. Along with study she is also working as Research Assistant (RA) in State Key Laboratory of Digital Manufacturing Equipment and Technology (SKL-DMET) at Huazhong University of Science and Technology. </font>
 
 ### <font face="Cambria Math" color=black size=6>Publication</font>
 
@@ -32,17 +32,17 @@
 <pre>
 2022年“移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-叉车周界行人检测专题 Rank1 
 2022 天池BMW第二届黑客马拉松——工业质检赛道 Rank2
-<!--2022“天马杯”全国高校科技创新大赛--3D数字人驱动赛道 Rank2 (solo)-->
+<!--2022“天马杯”全国高校科技创新大赛--3D数字人驱动赛道 Rank2-->
 <!--2022 CCF-BDCI 基于TPU平台实现人群密度估计 Rank3-->
-2022 字节跳动安全AI挑战赛赛道一基于文本和多模态数据的风险识别（复赛：Emoji复杂文本识别）Rank4 (solo)
+2022 字节跳动安全AI挑战赛赛道一基于文本和多模态数据的风险识别（复赛：Emoji复杂文本识别）Rank4
 2022 DIGIX全球校园AI算法精英大赛（车道渲染数据质检）Rank5
-2022 粤港澳大湾区（黄埔）国际算法算例大赛-路侧3D感知算法（百度&清华大学智能产业研究院）Rank6
+<!--2022 粤港澳大湾区（黄埔）国际算法算例大赛-路侧3D感知算法（百度&清华大学智能产业研究院）Rank5-->
 2019 CSDN×易观算法大赛——PV,UV流量预测 Rank6
 2022 “域见杯”医检人工智能开发者大赛 Rank7/903
-2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8 (solo)
+2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8
 2020 链想家计算科技大赛 ：同名消歧 赛道一 Rank9
 2022 粤港澳大湾区（黄埔）国际算法算例大赛-工业品表面缺陷检测技术（深科技）Rank10
-2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10 (solo)
+2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10
 </pre></details>
 
 ### <font face="Cambria Math" color=black size=6>Awarded/Attended Competitions</font>
