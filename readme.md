@@ -86,7 +86,7 @@
 <details>
 <summary>Expand to View</summary>
 <pre>
-* <font face="Cambria Math" color=black size=4>Chamd5 AI Team Leader</font>
+* <font face="Cambria Math" color=black size=4>Chamd5 AI Lab Leader</font>
 * <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
 * <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Star Partner</font>
